@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T02:05:51.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aYKTQF-DZISB5z8JxjPA" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T02:39:19.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kK-uYQj1on6vTXQCsERa" version="13.7.7" type="github">
   <diagram id="rQMjsT83pCZNlfhX6-W0" name="Page-1">
-    <mxGraphModel dx="782" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="2980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,9 @@
         <mxCell id="DlxLKzLz-N9eJt9cS60H-6" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="-2250" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlxLKzLz-N9eJt9cS60H-8" target="DlxLKzLz-N9eJt9cS60H-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DlxLKzLz-N9eJt9cS60H-8" value="BackEnd&lt;br&gt;分類" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="-1810" width="100" height="80" as="geometry" />
         </mxCell>
@@ -53,6 +56,9 @@
         </mxCell>
         <mxCell id="DlxLKzLz-N9eJt9cS60H-10" value="ML or 人工&lt;br&gt;分類" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324" y="-1950" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-14" value="&lt;br&gt;&lt;br&gt;Postgresql&lt;br&gt;or&lt;br&gt;Excel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1670" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
