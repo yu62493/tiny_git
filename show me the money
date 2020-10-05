@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T00:50:22.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="N7x8Q9XwW5_nf75D5SUX" type="github"><diagram id="rQMjsT83pCZNlfhX6-W0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T02:05:51.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aYKTQF-DZISB5z8JxjPA" version="13.7.7" type="github">
+  <diagram id="rQMjsT83pCZNlfhX6-W0" name="Page-1">
+    <mxGraphModel dx="782" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlxLKzLz-N9eJt9cS60H-1" target="DlxLKzLz-N9eJt9cS60H-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="-2010" />
+              <mxPoint x="169" y="-2010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-1" value="take a picture" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-2090" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-9" value="OK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlxLKzLz-N9eJt9cS60H-2" target="DlxLKzLz-N9eJt9cS60H-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-1860" />
+              <mxPoint x="170" y="-1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-11" value="Error" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlxLKzLz-N9eJt9cS60H-2" target="DlxLKzLz-N9eJt9cS60H-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="324" y="-1915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-2" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1950" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlxLKzLz-N9eJt9cS60H-6" target="DlxLKzLz-N9eJt9cS60H-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-6" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-2250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-8" value="BackEnd&lt;br&gt;分類" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1810" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.891;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlxLKzLz-N9eJt9cS60H-10" target="DlxLKzLz-N9eJt9cS60H-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-2080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="369" y="-2015" />
+              <mxPoint x="218" y="-2015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlxLKzLz-N9eJt9cS60H-10" value="ML or 人工&lt;br&gt;分類" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="-1950" width="90" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
